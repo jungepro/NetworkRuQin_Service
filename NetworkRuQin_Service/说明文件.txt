@@ -1,0 +1,11 @@
+项目地址：复制浏览器打开
+http://localhost:8080/coderQ/admin/dist/index.html
+
+sql监测：
+admin     123456
+
+管理员：
+admin       123456
+
+运维用户
+yh001       yh001
